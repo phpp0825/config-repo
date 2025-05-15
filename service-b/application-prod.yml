@@ -1,3 +1,5 @@
 service:
   name: 202035522 ParkJunHyeok
-
+logging:
+  level:
+  root: WARN
